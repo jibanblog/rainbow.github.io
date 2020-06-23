@@ -107,7 +107,7 @@ to{left: 60%}
 #login {
 position: absolute;
 left: 30%;
-bottom: 125px;
+bottom: 135px;
 background: transparent;
 border: none;
 outline: none;
@@ -123,7 +123,7 @@ cursor: pointer;
 #signup {
 position: absolute;
 left: 53.5%;
-bottom: 125px;
+bottom: 135px;
 background: transparent;
 border: none;
 outline: none;
