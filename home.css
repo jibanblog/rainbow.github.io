@@ -131,16 +131,7 @@ background-attachment: fixed;
 position: relative;
 }
 
-.footer{
-position: absolute;
-bottom: 1px;
-height: 20px;
-width: 50%;
-background-color: #ff2a26;
-padding: 10px 1100px;
-color: white;
-border: 1px solid red;
-}
+
 
 
 #login {
