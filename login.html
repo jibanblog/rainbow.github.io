@@ -9,6 +9,8 @@
 
 <link rel="stylesheet" type="text/css" href="./login.css">
 
+<script src="js/login.js"> </script>
+
 </head>
 
 
@@ -21,16 +23,18 @@
 
 <h1> Login form</h1>
 
-<form method="" action="https://jibanblog.github.io/bugs.github.io/index.html">
+<form method="" action="https://jibanblog.github.io/bugs.github.io/index.html" onsubmit="return loginFunction()">
 
 <div class="inputbox">
-<input type="text" name="username" autocomplete="off" required>
+<input type="text" id="loginname" name="username" value="" autocomplete="off" required>
 <label> username </label>
+<span id="message" style="color:red"> </span>
 </div>
 
 <div class="inputbox">
-<input type="password" name="password" autocomplete="off" required>
+<input type="password" id="loginpassword" name="password" value="" autocomplete="off" required>
 <label> password </label>
+<span id="messagess" style="color:red"> </span>
 </div>
 
 
