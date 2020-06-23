@@ -51,12 +51,12 @@ position: relative;
 list-style: none;
 text-align: right;
 position: absolute;
-margin: 10px 80px;
+margin: 10px 5px;
 }
 
 .menu ul li{
 display: inline;
-padding:10px 30px;
+padding:10px 20px;
 }
 
 a:link{
@@ -136,7 +136,7 @@ position: relative;
 
 #login {
 position: absolute;
-left: 33.5%;
+left: 30%;
 bottom: 100px;
 background: transparent;
 border: none;
@@ -152,7 +152,7 @@ cursor: pointer;
 
 #signup {
 position: absolute;
-left: 50%;
+left: 53.5%;
 bottom: 100px;
 background: transparent;
 border: none;
