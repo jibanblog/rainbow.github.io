@@ -1,0 +1,172 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Josefin Sans', sans-seif;
+}
+
+#main{
+height: 100vh;
+width: 100%;
+position: relative;
+}
+
+#div_form{
+height: 100vh;
+width: 1200px;
+position: absolute;
+left: 5%;
+right: 5%;
+background-color: black;
+padding: 50px;
+border-radius: 20px;
+}
+
+#header{
+text-align: center;
+color: white;
+text-transform: capitalize;
+margin-bottom: 5px;
+font-size: 30px;
+}
+
+hr{
+color: #03a9f4;
+margin-left: 400px;
+margin-bottom: 50px;
+font-size: 20px;
+}
+
+#main_form{
+position: relative;
+}
+
+
+
+.silver1 input{
+width: 50%;
+height: 30px;
+padding: 2px;
+letter-spacing: 1px;
+margin-left: 89px;
+margin-bottom: 30px;
+margin-top: 10px;
+font-size: 20px;
+background-color: silver
+height: 50px
+width: 50%;
+}
+
+.silver1 label{
+color: white;
+margin-left: 30px;
+font-size: 20px;
+}
+
+.white1{
+margin-bottom: 30px;
+}
+.white1 input{
+margin-left: 146px;
+}
+
+.white1 label{
+color: white;
+font-size: 20px;
+}
+
+.white1 .gender {
+margin-left: 30px;
+}
+
+.silver2 input{
+width: 50%;
+height: 30px;
+padding: 2px;
+letter-spacing: 1px;
+margin-left: 130px;
+margin-bottom: 30px;
+font-size: 20px;
+height: 30px;
+width: 50%;
+}
+
+.silver2 label{
+color: white;
+margin-left: 30px;
+font-size: 20px;
+}
+
+
+.white2 input{
+width: 50%;
+height: 30px;
+padding: 2px;
+letter-spacing: 1px;
+margin-left: 60px;
+margin-bottom: 30px;
+font-size: 20px;
+height: 30px;
+width: 50%;
+}
+
+.white2 label{
+color: white;
+margin-left: 30px;
+font-size: 20px;
+}
+
+
+.silver3 input{
+width: 50%;
+height: 30px;
+padding: 2px;
+letter-spacing: 1px;
+margin-left: 80px;
+margin-bottom: 30px;
+font-size: 20px;
+height: 30px;
+width: 50%;
+}
+
+.silver3 label{
+color: white;
+margin-left: 30px;
+font-size: 20px;
+}
+
+
+.white3 input{
+width: 50%;
+height: 30px;
+padding: 2px;
+letter-spacing: 1px;
+margin-left: 157px;
+margin-bottom: 30px;
+font-size: 20px;
+height: 30px;
+width: 50%;
+}
+
+.white3 label{
+color: white;
+margin-left: 30px;
+font-size: 20px;
+}
+
+#div_form input[type="submit"] {
+background: transparent;
+border: none;
+outline: none;
+color: white;
+background: #03a9f4;
+padding: 8px 30px;
+border-radius: 5px;
+font-size: 20px;
+margin-top: 30px;
+margin-left: 450px;
+cursor: pointer;
+}
+
+
+

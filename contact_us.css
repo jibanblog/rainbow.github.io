@@ -1,0 +1,102 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.odisha {
+height: 50px;
+width: 100%;
+background-color: black;
+position: relative;
+border: 1px solid white;
+}
+
+@font-face {
+font-family: headingheading;
+src: url('./Chentenario.otf');
+}
+
+.heading {
+font-family: headingheading;
+line-height: 50px;
+width: 50%;
+background-color: silver;
+padding: 0px 5px;
+text-align: left;
+color: purple;
+}
+
+
+.list_menu {
+height: 50px;
+width: 50%;
+background-color: black;
+float: right;
+margin-top: -50px;
+position: relative;
+}
+
+.list_menu ul {
+list-style: none;
+text-align: right;
+position: absolute;
+margin: 10px 80px;
+}
+
+.list_menu ul li{
+display: inline;
+padding:10px 30px;
+}
+
+a:link{
+color: white;
+}
+
+a:visited{
+color : white;
+}
+
+.image {
+position: relative;
+}
+
+.image img{
+height: 100vh;
+width: 100%;
+}
+
+.image h2 {
+height: 200px;
+width: 350px;
+background-color: tan;
+position: absolute;
+left: 530px;
+top: 200px;
+padding: 10px 10px;
+color: red;
+}
+
+.image p {
+position: absolute;
+left: 530px;
+top: 250px;
+padding: 0px 100px;
+color: blue;
+}
+
+.image h3 {
+position: absolute;
+left: 530px;
+top: 320px;
+padding: 0px 100px;
+color: red;
+}
+
+
+.image h4 {
+position: absolute;
+left: 530px;
+top: 350px;
+padding: 0px 100px;
+color: blue;
+}

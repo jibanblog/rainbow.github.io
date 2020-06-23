@@ -1,0 +1,108 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+.odisha {
+height: 50px;
+width: 100%;
+background-color: black;
+position: relative;
+border: 1px solid white;
+}
+
+@font-face {
+font-family: headingheading;
+src: url('./Chentenario.otf');
+}
+
+.heading {
+font-family: headingheading;
+line-height: 50px;
+width: 50%;
+background-color: silver;
+padding: 0px 5px;
+text-align: left;
+color: purple;
+}
+
+
+.list_menu {
+height: 50px;
+width: 50%;
+background-color: black;
+float: right;
+margin-top: -50px;
+position: relative;
+}
+
+.list_menu ul {
+list-style: none;
+text-align: right;
+position: absolute;
+margin: 10px 80px;
+}
+
+.list_menu ul li{
+display: inline;
+padding:10px 30px;
+}
+
+a:link{
+color: white;
+}
+
+a:visited{
+color : white;
+}
+
+.konark img{
+height: 50vh;
+width: 100%;
+}
+
+.puri {
+height: 50vh;
+width: 100%;
+position: relative;
+}
+
+.puri img{
+height: 60vh;
+width: 40%;
+padding: 0px 5px;
+}
+
+@font-face {
+font-family: aboutus;
+src: url('./go3v2.ttf');
+}
+
+.puri h2{
+position: absolute;
+left: 900px;
+top: 20px;
+font-family: aboutus;
+}
+
+.puri hr{
+position: absolute;
+left: 890px;
+top: 50px;
+}
+
+.puri p{
+word-wrap: break-word;
+height: 200px;
+width: 700px;
+position: absolute;
+left: 600px;
+top: 60px;
+
+}
+
+
+
+
+

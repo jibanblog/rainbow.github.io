@@ -1,0 +1,186 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+.odisha {
+height: 50px;
+width: 100%;
+background-color: black;
+position: relative;
+border: 1px solid white;
+}
+
+@font-face {
+font-family: headingheading;
+src: url('./Chentenario.otf');
+}
+
+.heading {
+font-family: headingheading;
+line-height: 50px;
+width: 50%;
+background-color: silver;
+padding: 0px 5px;
+text-align: left;
+color: purple;
+}
+
+
+.list_menu {
+height: 50px;
+width: 50%;
+background-color: black;
+float: right;
+margin-top: -50px;
+position: relative;
+}
+
+.list_menu ul {
+list-style: none;
+text-align: right;
+position: absolute;
+margin: 10px 80px;
+}
+
+.list_menu ul li{
+display: inline;
+padding:10px 30px;
+}
+
+a:link{
+color: white;
+}
+
+a:visited{
+color : white;
+}
+
+#image {
+height: 100vh;
+width: 100%;
+position: relative;
+padding: 10px 10px;
+}
+
+#image img{
+height: 120px;
+width: 150px;
+}
+
+#image p {
+color: blue;
+}
+
+.image2 {
+position: absolute;
+left: 190px;
+top: 10px;
+}
+
+.para2 {
+position: absolute;
+left: 190px;
+top: 135px;
+}
+
+.image3 {
+position: absolute;
+left: 370px;
+top: 10px;
+}
+
+.para3 {
+position: absolute;
+left: 370px;
+top: 135px;
+}
+
+.image4 {
+position: absolute;
+left: 550px;
+top: 10px;
+}
+
+.para4 {
+position: absolute;
+left: 550px;
+top: 135px;
+}
+
+
+.image5 {
+position: absolute;
+left: 740px;
+top: 10px;
+}
+
+.para5 {
+position: absolute;
+left: 740px;
+top: 135px;
+}
+
+
+.image6 {
+position: absolute;
+left: 910px;
+top: 10px;
+}
+
+.para6 {
+position: absolute;
+left: 910px;
+top: 135px;
+}
+
+.image7 {
+position: absolute;
+left: 1080px;
+top: 10px;
+}
+
+.para7 {
+position: absolute;
+left: 1080px;
+top: 135px;
+}
+
+
+.image8 {
+padding: 50px 5px;
+}
+
+.para8 {
+position: absolute;
+left: 12px;
+top: 330px;
+
+}
+
+
+
+.image9 {
+padding: 50px 20px;
+}
+
+.para9 {
+position: absolute;
+left: 190px;
+top: 330px;
+}
+
+.image10 {
+padding: 50px 15px;
+}
+
+.para10 {
+position: absolute;
+left: 380px;
+top: 330px;
+}
+
+
+
+
