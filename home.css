@@ -112,13 +112,13 @@ position: relative;
 
 #culture img {
 float: right;
-margin: 30px 150px;
+margin: 30px 50px;
 }
 
 .wrap {
 word-wrap: break-word;
-width: 400px;
-padding: 50px 200px;
+width: 350px;
+padding: 30px 300px;
 }
 
 #newpage {
