@@ -75,9 +75,6 @@ width: 100%;
 }
 
 .image h2 {
-height: 200px;
-width: 400px;
-background-color: tan;
 position: absolute;
 left: 350px;
 top: 150px;
@@ -87,7 +84,7 @@ color: red;
 
 .image p {
 position: absolute;
-left: 3500px;
+left: 350px;
 top: 170px;
 padding: 0px 100px;
 color: blue;
@@ -95,7 +92,7 @@ color: blue;
 
 .image h3 {
 position: absolute;
-left: 3500px;
+left: 350px;
 top: 210px;
 padding: 0px 100px;
 color: red;
