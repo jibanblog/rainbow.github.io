@@ -125,36 +125,38 @@ top: 135px;
 
 .image6 {
 position: absolute;
-left: 910px;
-top: 10px;
+left: 10px;
+top: 200px;
 }
 
 .para6 {
 position: absolute;
-left: 910px;
-top: 135px;
+left: 10px;
+top: 330px;
 }
 
 .image7 {
 position: absolute;
-left: 1080px;
-top: 10px;
+left: 180px;
+top: 200px;
 }
 
 .para7 {
 position: absolute;
-left: 1080px;
-top: 135px;
+left: 170px;
+top: 330px;
 }
 
 
 .image8 {
-padding: 50px 5px;
+position: absolute;
+left: 400px;
+top: 200px;
 }
 
 .para8 {
 position: absolute;
-left: 12px;
+left: 400px;
 top: 330px;
 
 }
@@ -162,22 +164,26 @@ top: 330px;
 
 
 .image9 {
-padding: 50px 20px;
+posiion: absolute;
+left: 580px;
+top: 200px;
 }
 
 .para9 {
 position: absolute;
-left: 190px;
+left: 580px;
 top: 330px;
 }
 
 .image10 {
-padding: 50px 15px;
+position: absolute;
+left: 750px;
+top: 200px;
 }
 
 .para10 {
 position: absolute;
-left: 380px;
+left: 750px;
 top: 330px;
 }
 
