@@ -71,13 +71,13 @@ width: 100%;
 }
 
 .puri {
-height: 50vh;
+height: 75vh;
 width: 100%;
 position: relative;
 }
 
 .puri img{
-height: 60vh;
+height: 75vh;
 width: 30%;
 padding: 0px 1px;
 }
@@ -96,14 +96,14 @@ font-family: aboutus;
 
 .puri hr{
 position: absolute;
-left: 580px;
+left: 600px;
 top: 40px;
 }
 
 .puri p{
 word-wrap: break-word;
 height: 200px;
-width: 700px;
+width: 500px;
 position: absolute;
 left: 420px;
 top: 50px;
