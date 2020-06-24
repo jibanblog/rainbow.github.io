@@ -77,9 +77,9 @@ position: relative;
 }
 
 .puri img{
-height: 60vh;
-width: 40%;
-padding: 0px 5px;
+height: 65vh;
+width: 30%;
+padding: 0px 1px;
 }
 
 @font-face {
@@ -89,24 +89,24 @@ src: url('./go3v2.ttf');
 
 .puri h2{
 position: absolute;
-left: 500px;
+left: 650px;
 top: 10px;
 font-family: aboutus;
 }
 
 .puri hr{
 position: absolute;
-left: 500px;
-top: 40px;
+left: 640px;
+top: 50px;
 }
 
 .puri p{
 word-wrap: break-word;
 height: 200px;
-width: 500px;
+width: 600px;
 position: absolute;
-left: 400px;
-top: 30px;
+left: 450px;
+top: 60px;
 
 }
 
